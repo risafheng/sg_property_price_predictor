@@ -21,5 +21,10 @@ sg_property_price_predictor<br>
 │   └── resale-flat-prices-based-on-registration-date-from-jan-2015-to-dec-2016.csv<br>
 │   └── resale-flat-prices-based-on-registration-date-from-jan-2017-onwards.csv<br>
 │   └── resale-flat-prices-based-on-registration-date-from-mar-2012-to-dec-2014.csv<br>
+├── models<br>
+│   └── lasso.pkl<br>
+│   └── lightgbm_tuned.pkl<br>
+│   └── lightgbm.pkl<br>
+│   └── ridge.pkl<br>
 ├── .gitignore<br>
 └── requirements.txt<br>
