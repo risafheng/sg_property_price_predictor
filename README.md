@@ -10,6 +10,9 @@ This project was developed using
     - OS: Darwin arm64 24.1.0
 - Python
     - Version 3.11.13
+- Install requirements.txt
+    - `pip install -r requirements.txt`
+
 
 ### Respository Structure
 sg_property_price_predictor<br>
