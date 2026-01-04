@@ -12,7 +12,8 @@ This project was developed using
     - Version 3.11.13
 - Install requirements.txt
     - `pip install -r requirements.txt`
-
+- Run Python Notebook
+    - sg_property_price_predictor.ipynb
 
 ### Respository Structure
 sg_property_price_predictor<br>
